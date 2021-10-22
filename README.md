@@ -1,7 +1,9 @@
-# e-commence-site
+# project-2
 
-# fully responsive
+## Landing Page
 
-# created by ahmed barakat
+## made by ahmed barakat
 
-# AhmedBarakat2401@gmail.com
+## for more contact me on
+
+## ahmedbarakat2401@gmail.com

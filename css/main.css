@@ -1,0 +1,169 @@
+/* start components */
+body {
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+.unibtn {
+  display: block;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 10px 30px;
+}
+
+.uni-text {
+  margin-bottom: 4rem;
+}
+.uni-text h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+.uni-text p {
+  color: red !important;
+}
+.card:hover {
+  box-shadow: 6px 6px 20px -5px rgba(0, 0, 0, 0.64);
+  -webkit-box-shadow: 6px 6px 20px -5px rgba(0, 0, 0, 0.64);
+  -moz-box-shadow: 6px 6px 20px -5px rgba(0, 0, 0, 0.64);
+  transition: 0.4s;
+}
+.uni-card-text h6 {
+  font-weight: 700;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+}
+.uni-card-text p {
+  color: #777;
+}
+/* end of components */
+/* start of navbar */
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+.navbar-brand {
+  font-size: 2rem;
+  font-family: "Pacifico", cursive;
+}
+
+.nav-item {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.nav-search {
+  height: 40px;
+  width: 80%;
+  border-radius: 60px;
+  outline: none;
+  border: 2px solid rgb(248, 26, 92);
+  text-align: start;
+  margin-right: -35px;
+}
+
+.btn0 {
+  height: 40px;
+  width: 40%;
+  border-radius: 60px;
+  outline: none;
+  border: 2px solid rgb(248, 26, 92);
+  background: rgb(248, 26, 92);
+  color: #fff;
+}
+/* end of navbar */
+/* start of home */
+.main {
+  background-image: url(../img/lunchcopy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.main h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.main .btn {
+  border-radius: 30px;
+  width: 35%;
+  height: 20%;
+  font-size: 12 rem;
+}
+/* end of home */
+/* start of trending */
+.trending span {
+  margin-left: 40px;
+}
+/* end of trending */
+/* start of store  */
+.store-text {
+  margin-bottom: 4rem;
+}
+.store-text h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+.store-text p {
+  color: red !important;
+}
+.store .card {
+  transition: 0.3s;
+}
+
+.store .btn {
+  display: block;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 10px 30px;
+}
+/* end of store */
+/* start of organic */
+.organic-text {
+  margin-bottom: 4rem;
+}
+.organic-text h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+.organic-text p {
+  color: red;
+}
+
+.organic-pic-text p {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+/* end of organic */
+/* start of girl */
+.girl {
+  height: 80vh;
+  padding: 40px 0px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+    url(../img/red.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.girl .unibtn {
+  margin-left: 0 !important;
+  margin-top: 30px !important;
+}
+.lobyy {
+  font-family: "Lobster", cursive;
+  color: #fff;
+  font-size: 3rem;
+}
+.girl p {
+  color: #fff;
+}
+/* end of girl */
+/* start of contact */
+.about h6 {
+  font-size: 2rem;
+}
+
+/* end of contact */
+.footer {
+  margin-top: 30px;
+}
