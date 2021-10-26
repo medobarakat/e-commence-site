@@ -1,4 +1,4 @@
-# project-2
+# E-Commence Site
 
 ## Landing Page
 
