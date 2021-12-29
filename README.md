@@ -1,7 +1,7 @@
 # Landing Page-Website
 this is a Responsive  Landing Page Webpage For organic Food Shop
 
-![screenshot](./img/ScreeShot.png)
+![screenshot](./img/Screenshot.png)
 
 
 ## Built with
